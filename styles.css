@@ -160,6 +160,8 @@ form{
 input, label, button{
     display: block;
     color: var(--dk-gray);
+    font-size: 1.1rem;
+    font-family: var(--fonts);
 }
 
 label{
